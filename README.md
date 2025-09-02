@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/StoicAlexx/My-ReadMe/raw/main/Velocity cover page.png" alt="Alexander Bryan F. Sanchez Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/ee818650-34d2-4bde-8fc6-18c880fcb6f4" alt="New Velocity cover page" width="100%">
 </p>
+
 
 # 👋 Greetings! I'm Alex
 
