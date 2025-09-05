@@ -8,7 +8,7 @@
 ## IT Consultant | Nonprofit Advocate | Digital Transformation
 
 
-I'm a passionate, multi-faceted IT & Business professional with over a decade of experience bridging the gap between **technology and business impact**. Currently pursuing my **Master’s in Information Technology** at the University of San Carlos (Philippines), I lead projects that merge business process automation, CRM implementation, and AI-powered software solutions to help both enterprises and nonprofits scale meaningfully.
+I'm a passionate, multi-faceted IT & Business professional with over a decade of experience bridging the gap between **technology and business impact**. Currently pursuing my **Master’s in Information Technology** at the University of San Carlos (Philippines), I lead projects that merge business process automation, CRM & ERP implementation, and AI-powered software solutions to help both enterprises and nonprofits scale meaningfully.
 
 <img src="https://github.com/StoicAlexx/My-ReadMe/raw/main/psyduck.png" align="right" width="200" alt="Psyduck">
 
@@ -30,7 +30,7 @@ I'm a passionate, multi-faceted IT & Business professional with over a decade of
 </p>
 
 
-<h3>💼 CRM & Business Systems:</h3>
+<h3>💼 CRM, ERP & Business Solutions:</h3>
 
 <p>
   <img src="https://img.shields.io/badge/ClickUp_CRM-Purple?logo=clickup&logoColor=white&style=flat-square" />
@@ -72,8 +72,8 @@ I'm a passionate, multi-faceted IT & Business professional with over a decade of
 
 ### 💼 What I Do
 
-- 🔧 **Custom CRM Systems:** ClickUp, HubSpot, Zoho, Monday.com, Trello, Asana, Zendesk, Microsoft Power Apps, Relevance.ai and MORE!
-- 📈 **Business Process Automation:** Systems analysis, optimization, and AI integrations  
+- 🔧 **CRM & ERP Systems:** ClickUp, HubSpot, Zoho, Monday.com, Odoo, Asana, Zendesk, Microsoft Power Apps, and MORE!
+- 📈 **Business Process Automation:** Systems & Workflow analysis, optimization, and AI integrations  
 - 🌐 **SaaS & Software Development:** Founder of **Velocity Technologies**, crafting intelligent platforms like **Nexus (Inventory System)** 
 - 🌱 **Nonprofit Empowerment:** Project Manager & Systems Developer at **Exposher**, using tech to manage and help empower underserved young girls and promote wellness, education, and exposure  
 - 🤝 **Strategic Partnerships:** Connecting global solutions to local problems via data-driven collaboration  
@@ -83,8 +83,8 @@ I'm a passionate, multi-faceted IT & Business professional with over a decade of
 ### 🌟 Featured Projects
 
 - **Nexus**  
-An inventory system for BPOs, Healthcare, and Manufacturing. Designed with Microsoft Power Apps, Laravel and built around efficiency and clarity.
-
+An inventory system for BPOs, Healthcare, Logistics, Retail and Manufacturing. Designed with Microsoft Power Apps, & Laravel.
+ 
 - **Precision Machinist Corporation**  
 Developed a custom Accounting and Inventory Management System using Microsoft Power Apps & Laravel to digitize operations, track financials, and streamline warehouse processes.
 
@@ -92,13 +92,13 @@ Developed a custom Accounting and Inventory Management System using Microsoft Po
 Systems-led wellness, mentorship, and career-readiness events impacting 100+ underserved youth annually.
 
 - **PAGLAUM Realty Development**  
-Implemented a fully integrated CRM and accounting system using ClickUp and QuickBooks to streamline real estate operations, sales pipelines, and financial workflows.
+Implemented a fully integrated CRM and accounting system using Odoo and QuickBooks to streamline real estate operations, sales pipelines, and financial workflows.
 
 - **UWU Media**  
-  Designed and implemented a custom ClickUp CRM + project management system for a distributed design team and influencer-focused agency.
+  Designed and implemented a ClickUp CRM + project management system for a distributed design team and influencer-focused agency.
 
 - **JRNY** Visitor Management System  
-A visitor and campus management platform designed for large institutions. Supports automation, service tracking, and real-time data capture. 
+A visitor and campus management system designed for large institutions, Universities and Schools.
 
 # **and more!** 
 
