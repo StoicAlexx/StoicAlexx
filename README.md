@@ -61,13 +61,6 @@ I'm a passionate, multi-faceted IT & Business professional with over a decade of
 
 </p>
 
-
-**Other Skills:**  
-🎥 Video Editing (Adobe, Canva, Odio.ai)  
-📊 Data Visualization & Reporting (Microsoft Power BI & more) 
-📝 Grant Writing & Research  
-🎙 Public Speaking & Mentorship  
-
 ---
 
 ### 💼 What I Do
