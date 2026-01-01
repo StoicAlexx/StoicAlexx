@@ -5,7 +5,7 @@
 
 # 👋 Greetings! I'm Alex
 
-## IT Consultant | Nonprofit Advocate | Digital Transformation
+## IT Consultant | Change Management | Digital Transformation
 
 
 I'm a passionate, multi-faceted IT & Business professional with over a decade of experience bridging the gap between **technology and business impact**. Currently pursuing my **Master’s in Information Technology** at the University of San Carlos (Philippines), I lead projects that merge business process automation, CRM & ERP implementation, and AI-powered software solutions to help both enterprises and nonprofits scale meaningfully.
@@ -64,7 +64,7 @@ I'm a passionate, multi-faceted IT & Business professional with over a decade of
 
 **Other Skills:**  
 🎥 Video Editing (Adobe, Canva, Odio.ai)  
-📊 Data Visualization & Reporting  
+📊 Data Visualization & Reporting (Microsoft Power BI & more) 
 📝 Grant Writing & Research  
 🎙 Public Speaking & Mentorship  
 
@@ -73,7 +73,7 @@ I'm a passionate, multi-faceted IT & Business professional with over a decade of
 ### 💼 What I Do
 
 - 🔧 **CRM & ERP Systems:** ClickUp, HubSpot, Zoho, Monday.com, Odoo, Asana, Zendesk, Microsoft Power Apps, and MORE!
-- 📈 **Business Process Automation:** Systems & Workflow analysis, optimization, and AI integrations  
+- 📈 **Business Process Automation:** Systems & Workflow analysis, optimization, Python logic and AI integrations  
 - 🌐 **SaaS & Software Development:** Founder of **Velocity Technologies**, crafting intelligent platforms like **Nexus (Inventory System)** 
 - 🌱 **Nonprofit Empowerment:** Project Manager & Systems Developer at **Exposher**, using tech to manage and help empower underserved young girls and promote wellness, education, and exposure  
 - 🤝 **Strategic Partnerships:** Connecting global solutions to local problems via data-driven collaboration  
@@ -83,22 +83,19 @@ I'm a passionate, multi-faceted IT & Business professional with over a decade of
 ### 🌟 Featured Projects
 
 - **Nexus**  
-An inventory system for BPOs, Healthcare, Logistics, Retail and Manufacturing. Designed with Microsoft Power Apps, & Laravel.
+An inventory system for BPOs, Healthcare, Logistics, Retail and Manufacturing. Designed with Microsoft Power Apps, & Laravel respectively.
  
 - **Precision Machinist Corporation**  
 Developed a custom Accounting and Inventory Management System using Microsoft Power Apps & Laravel to digitize operations, track financials, and streamline warehouse processes.
 
 - **Exposher Non-profit Organization**  
-Systems-led wellness, mentorship, and career-readiness events impacting 100+ underserved youth annually.
+Productivity and Project management Systems-led wellness, mentorship, and career-readiness events impacting 100+ underserved youth annually.
 
 - **PAGLAUM Realty Development**  
 Implemented a fully integrated CRM and accounting system using Odoo and QuickBooks to streamline real estate operations, sales pipelines, and financial workflows.
 
 - **UWU Media**  
-  Designed and implemented a ClickUp CRM + project management system for a distributed design team and influencer-focused agency.
-
-- **JRNY** Visitor Management System  
-A visitor and campus management system designed for large institutions, Universities and Schools.
+  Implemented a ClickUp CRM + project management system for a distributed design team and influencer-focused agency.
 
 # **and more!** 
 
@@ -118,7 +115,7 @@ A visitor and campus management system designed for large institutions, Universi
 - 🎓 Pursuing M.S. in Information Technology  
 - 🧠 Learning more about AI & LLM Development  
 - 📢 Open to collaboration, mentorship, or new job opportunities (especially in **US, New Zealand, Netherlands, or Australia**)  
-- ❤️ Advocating for HIV awareness and inclusion in tech  
+- ❤️ Advocating for HIV awareness and Non-profit engagement
 
 ---
 
