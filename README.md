@@ -78,7 +78,7 @@ I'm a passionate, multi-faceted IT & Business professional with over a decade of
 - **Nexus**  
 An inventory system for BPOs, Healthcare, Logistics, Retail and Manufacturing. Designed with Microsoft Power Apps, & Laravel respectively.
  
-- **Steel Works Corporation**  
+- **Precision Line Corporation**  
 Developed a custom Accounting and Inventory Management System using Microsoft Power Apps & Laravel to digitize operations, track financials, and streamline warehouse processes.
 
 - **Exposher Non-profit Organization**  
