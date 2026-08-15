@@ -106,7 +106,7 @@ Implemented a fully integrated ERP, CRM and accounting system using ODOO and Qui
 ### 📌 Currently...
 
 - 🎓 Pursuing M.S. in Information Technology  
-- 🧠 Learning more about AI & LLM Development  
+- 🧠 Improving and Learning more about AI & LLM Development  
 - 📢 Open to collaboration, mentorship, or new job opportunities (especially in **US, New Zealand, Netherlands, or Australia**)  
 - ❤️ Advocating for HIV awareness and Non-profit engagement
 
