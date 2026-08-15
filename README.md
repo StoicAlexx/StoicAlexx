@@ -78,17 +78,17 @@ I'm a passionate, multi-faceted IT & Business professional with over a decade of
 - **Nexus**  
 An inventory system for BPOs, Healthcare, Logistics, Retail and Manufacturing. Designed with Microsoft Power Apps, & Laravel respectively.
  
-- **Precision Machinist Corporation**  
+- **Steel Works Corporation**  
 Developed a custom Accounting and Inventory Management System using Microsoft Power Apps & Laravel to digitize operations, track financials, and streamline warehouse processes.
 
 - **Exposher Non-profit Organization**  
 Productivity and Project management Systems-led wellness, mentorship, and career-readiness events impacting 100+ underserved youth annually.
 
 - **PAGLAUM Realty Development**  
-Implemented a fully integrated CRM and accounting system using Odoo and QuickBooks to streamline real estate operations, sales pipelines, and financial workflows.
+Implemented a fully integrated ERP, CRM and accounting system using ODOO and QuickBooks to streamline real estate operations, sales pipelines, and financial workflows.
 
 - **UWU Media**  
-  Implemented a ClickUp CRM + project management system for a distributed design team and influencer-focused agency.
+  Implemented a ClickUp CRM + work management system for a distributed design team and influencer-focused agency.
 
 # **and more!** 
 
